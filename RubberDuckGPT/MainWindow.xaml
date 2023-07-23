@@ -6,7 +6,38 @@
         xmlns:local="clr-namespace:RubberDuckGPT"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Menu -->
+            <RowDefinition Height="*"/>
+            <!-- Chat History (Chat-like text box) -->
+            <RowDefinition Height="Auto"/>
+            <!-- User Input -->
+        </Grid.RowDefinitions>
+
+        <!-- Menu -->
+        <Menu Grid.Row="0" Margin="0,0,0,10">
+            <MenuItem Header="Settings" Click="MenuItemSettings_Click" />
+        </Menu>
+
+        <!-- Chat History (Chat-like text box) -->
+        <ScrollViewer Grid.Row="1" Margin="0,0,0,10">
+            <TextBox x:Name="txtChatDisplay" IsReadOnly="True" TextWrapping="Wrap" Height="auto"/>
+        </ScrollViewer>
+
+        <!-- User Input -->
+        <Grid Grid.Row="2" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90*"/>
+                <!-- 90% width -->
+                <ColumnDefinition Width="10*"/>
+                <!-- 10% width -->
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="txtUserInput" Grid.Column="0" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+            <Button x:Name="btnSendMessage" Grid.Column="1" Padding="10,5" Content="Send" Click="btnSendMessage_Click" />
+        </Grid>
     </Grid>
 </Window>

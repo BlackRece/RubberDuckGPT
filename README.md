@@ -7,4 +7,6 @@ In software engineering, rubber duck debugging (or rubberducking) is a method of
 
 (Source: https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
-RubberDuckGPT © 2023 by Maurice Thompson-Hamilton is licensed under CC BY-ND 4.0 
+
+RubberDuckGPT © 2023 by Maurice Thompson-Hamilton is licensed under CC BY-ND 4.0.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/
