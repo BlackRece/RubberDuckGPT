@@ -1,0 +1,16 @@
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\bin\Debug\RubberDuckGPT.exe.config
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\bin\Debug\RubberDuckGPT.exe
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\bin\Debug\RubberDuckGPT.pdb
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.csproj.AssemblyReference.cache
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\MainWindow.g.cs
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\App.g.cs
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT_MarkupCompile.cache
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT_MarkupCompile.lref
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\MainWindow.baml
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.g.resources
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.Properties.Resources.resources
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.csproj.GenerateResource.cache
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.csproj.CoreCompileInputs.cache
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.exe
+D:\GitHub\RubberDuckGPT\RubberDuckGPT\obj\Debug\RubberDuckGPT.pdb
